@@ -18,3 +18,28 @@ Link to [Live report](https://project.novypro.com/eFxb0N)
 <p align="center">
     <img src='https://github.com/Jayaraaaman/Business-Insights-360/blob/main/Resources/home%20view.JPG' height="400">
 </p>
+
+## Finance View
+<p align="center">
+    <img src='https://github.com/Jayaraaaman/Business-Insights-360/blob/main/Resources/Finance%20View.JPG' height="400">
+</p>
+
+## Sales View
+<p align="center">
+    <img src='https://github.com/Jayaraaaman/Business-Insights-360/blob/main/Resources/Sales%20View.JPG' height="400">
+</p>
+
+## Marketing View
+<p align="center">
+    <img src='https://github.com/Jayaraaaman/Business-Insights-360/blob/main/Resources/Marketing%20view.JPG' height="400">
+</p>
+
+## Supply Chain View
+<p align="center">
+    <img src='https://github.com/Jayaraaaman/Business-Insights-360/blob/main/Resources/Supply%20Chain%20View.JPG' height="400">
+</p>
+
+## Executive View
+<p align="center">
+    <img src='https://github.com/Jayaraaaman/Business-Insights-360/blob/main/Resources/Executive%20View.JPG' height="400">
+</p>
