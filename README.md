@@ -5,7 +5,7 @@ So, the senior executives have decided to invest in a data analytics project so 
 
 This project aims to address stakeholders' queries across various dimensions, including Finance, Sales, Marketing, and Supply Chain.
 
-Link to [Live report](https://project.novypro.com/eFxb0N)
+Link to [Interactive Dashboard](https://project.novypro.com/eFxb0N)
 
 ## Technical Skills
 📌 Power Query  
