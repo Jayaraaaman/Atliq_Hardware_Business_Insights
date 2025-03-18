@@ -43,3 +43,6 @@ Link to [Live report](https://project.novypro.com/eFxb0N)
 <p align="center">
     <img src='https://github.com/Jayaraaaman/Business-Insights-360/blob/main/Resources/Executive%20View.JPG' height="400">
 </p>
+
+## Final Outcome
+This report enables data-driven decision-making and provides comprehensive answers to various questions based on different scenarios.
