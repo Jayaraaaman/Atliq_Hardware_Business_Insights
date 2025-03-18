@@ -14,3 +14,7 @@ Link to [Live report](https://project.novypro.com/eFxb0N)
 📌 Excel  
 📌 Data Studio 
 
+## Overall Analysis View
+<p align="center">
+    <img src='https://github.com/Jayaraaaman/Business-Insights-360/blob/main/Resources/home%20view.JPG' height="400">
+</p>
